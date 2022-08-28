@@ -1,3 +1,10 @@
+# Simple Python Package
+
+## GitHub のリポジトリからインストール
+
+```
+pip install git+https://github.com/kiyo27/simple-python-package.git
+```
 
 ## [ローカルソースからのインストール](https://kurozumi.github.io/pip/user_guide.html#installing-from-local-packages)
 
